@@ -1,0 +1,1 @@
+The GitHub Gist Automation Tool is a Python-based script that allows developers to programmatically create GitHub Gists using the GitHub API. This is particularly useful for sharing code snippets, storing examples, and embedding code in articles or blogs without manual uploads.
